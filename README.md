@@ -16,7 +16,7 @@ Logiciels de programmation
 
 Il faut combiner les deux dossiers Base_de_donnees_1.zip et Base_de_donnees_2.zip pour obtenir la base complète pour les bases d'apprentissage et de validation. C'est important car les deux dossiers ont été séparés pour des questions de taille de chargement dans github. Il y a au moins 9000 fichiers répartis dans les deux dossiers. 
 
-La base de tests est dans le dossier Base_de_tests.zip. C'est un fichier csv
+La base de tests est dans le dossier Base_de_tests.zip. C'est un fichier csv.
 
 Les en-têtes sont différentes des deux bases de données sont différentes. Il y a plus d'informations dans la base de tests et les noms des colonnes sont différents.
 
