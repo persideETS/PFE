@@ -16,7 +16,7 @@ Logiciels de programmation
 
 J'ai utilisé du code provenant de la documentation pour aller plus vite. vous pourrez retrouver ces bouts de codes dans les références ci-dessous :
   - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-  - https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
+  - méthode pour créer la matrice de confusion : https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
   - https://pytorch.org/docs/stable/nn.html
 
 Il faut combiner les deux dossiers Base_de_donnees_1.zip et Base_de_donnees_2.zip pour obtenir la base complète pour les bases d'apprentissage et de validation. C'est important car les deux dossiers ont été séparés pour des questions de taille de chargement dans github. Il y a au moins 9000 fichiers répartis dans les deux dossiers. 
